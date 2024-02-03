@@ -1,0 +1,17 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://i.pinimg.com/736x/bc/43/54/bc435441c05f842a64fe34abae5dea27.jpg);
+  width: 100%;
+  height: auto;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://png.pngtree.com/background/20210710/original/pngtree-blue-earth-outer-space-background-picture-image_1011332.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://png.pngtree.com/background/20210714/original/pngtree-earth-glow-effect-background-picture-image_1204525.jpg);
+}
